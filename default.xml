@@ -1,7 +1,5 @@
 <?xml version="1.0" ?><manifest>
 
-  <include name="base-kk.xml"/>
-
   <remote name="sprd-aosp" fetch="http://sprdsource.spreadtrum.com:8085/b2g/android" />
 
   <default revision="sprdb2g_gonk4.4" remote="sprd-aosp" sync-j="4"/>
